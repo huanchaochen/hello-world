@@ -1,4 +1,8 @@
 modifiers
 修饰符，比如public、private等
+
 factory methods
 工厂方法
+
+KLOC
+千行代码 line of code
