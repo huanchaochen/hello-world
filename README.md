@@ -17,3 +17,8 @@ target audience
 
 redundancy
 n. [计][数] 冗余（等于redundance）；裁员；人浮于事
+
+obsolete
+adj. 废弃的；老式的
+n. 废词；陈腐的人
+vt. 淘汰；废弃
