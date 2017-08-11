@@ -14,3 +14,6 @@ vi. 匆忙离开
 
 target audience
 目标受众
+
+redundancy
+n. [计][数] 冗余（等于redundance）；裁员；人浮于事
