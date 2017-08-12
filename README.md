@@ -17,3 +17,11 @@ target audience
 
 redundancy
 n. [计][数] 冗余（等于redundance）；裁员；人浮于事
+
+intelligible
+adj. 可理解的；明了的；仅能用智力了解的
+
+infer
+vt. 推断；推论
+vi. 推断；作出推论
+
